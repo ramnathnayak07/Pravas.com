@@ -13,7 +13,7 @@ Technologies
 
 HTML | CSS | PHP | JavaScript | SQL 
 
-Github pages - <a href="https://ramnathnayak07.github.io/Pravas.com/">Click Here</a><br>
+<a href="https://ramnathnayak07.github.io/Pravas.com/">Click Here</a><br>
 
 <b>SnapShots:<br><br>
 <img width="900" src="https://github.com/ramnathnayak07/Pravas.com/blob/main/screenshot/Home.png">
