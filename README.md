@@ -2,14 +2,14 @@
 
 This project is a comprehensive platform designed to enhance your travel planning and booking experience. With features ranging from destination discovery to customizable itineraries and seamless booking integration, this application serves as your one-stop solution for all travel needs.
 
-Key Features
+Key Features:
 
 - Curated Adventure Packages: Explore a wide range of adventure packages tailored to different thrill levels and preferences.
 - Destination Discovery: Explore detailed guides and user reviews of various destinations.
 - Customizable Itineraries: Plan and personalize your trips according to your interests.
 - Seamless Booking: Book flights, hotels, and activities directly through the platform.
 
-Technologies
+Technologies:
 
 HTML | CSS | PHP | JavaScript | SQL 
 
